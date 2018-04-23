@@ -40,5 +40,10 @@
     "run.js",
     "src/",
     "vendor/"
-  ]
+  ],
+  "reactSnap": {
+    "destination": "tmp",
+    "inlineCss": true,
+    "cacheAjaxRequests": true
+  }
 }
